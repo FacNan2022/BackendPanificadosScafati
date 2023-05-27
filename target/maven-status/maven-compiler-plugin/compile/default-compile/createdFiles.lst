@@ -5,6 +5,7 @@ com/panificados/panificadosScafati/Service/PersonaService.class
 com/panificados/panificadosScafati/Entity/Productos.class
 com/panificados/panificadosScafati/Dto/PersonaDto.class
 com/panificados/panificadosScafati/PanificadosScafatiApplication.class
+com/panificados/panificadosScafati/Controller/productosController.class
 com/panificados/panificadosScafati/Repository/PersonaRepository.class
 com/panificados/panificadosScafati/Interfaces/ProductosInterfaces.class
 com/panificados/panificadosScafati/Controller/PersonaController.class
