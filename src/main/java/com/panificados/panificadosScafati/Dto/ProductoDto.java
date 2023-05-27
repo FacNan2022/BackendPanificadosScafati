@@ -9,6 +9,8 @@ public class ProductoDto {
     private String descripcion_producto;
     @NotBlank
     private String imagen_producto;
+    @NotBlank
+      private int precioProducto;
 
     //Constructor vacio
 
@@ -18,12 +20,14 @@ public class ProductoDto {
 
     //Constructor con parametros
 
-    public ProductoDto(String nombre_producto, String descripcion_producto, String imagen_producto) {
+    public ProductoDto(String nombre_producto, String descripcion_producto, String imagen_producto, int precioProducto) {
         this.nombre_producto = nombre_producto;
         this.descripcion_producto = descripcion_producto;
         this.imagen_producto = imagen_producto;
+        this.precioProducto = precioProducto;
     }
 
+ 
     //Getters y Setters
 
     public String getNombre_producto() {
@@ -49,4 +53,13 @@ public class ProductoDto {
     public void setImagen_producto(String imagen_producto) {
         this.imagen_producto = imagen_producto;
     }
+
+    public int getPrecioProducto() {
+        return precioProducto;
+    }
+
+    public void setPrecioProducto(int precioProducto) {
+        this.precioProducto = precioProducto;
+    }
+    
 }

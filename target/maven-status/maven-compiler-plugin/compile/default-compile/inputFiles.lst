@@ -1,6 +1,7 @@
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Dto/ProductoDto.java
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Mensaje/Mensaje.java
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Repository/PersonaRepository.java
+/home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Controller/productosController.java
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Dto/PersonaDto.java
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Entity/Persona.java
 /home/facundo/Escritorio/Panificados/BackendPanificadosScafati/src/main/java/com/panificados/panificadosScafati/Controller/PersonaController.java
